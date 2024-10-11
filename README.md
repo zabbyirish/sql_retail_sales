@@ -220,5 +220,5 @@ This project is part of my portfolio, showcasing the SQL skills essential for da
 For more content on SQL, data analysis, and other data-related topics, make sure to follow me on social media and join our community:
 
 - **LinkedIn**: (https://www.linkedin.com/in/zahid-shaikh7860/)
-- 
+
 Thank you for your support, and I look forward to connecting with you!
